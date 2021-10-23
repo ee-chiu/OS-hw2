@@ -1,4 +1,4 @@
-para = hw2-1 #hw2-2 hw2-3 hw2-4
+para = hw2-1 hw2-2 #hw2-3 hw2-4
 
 all:	${para}
 
